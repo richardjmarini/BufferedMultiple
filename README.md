@@ -1,2 +1,2 @@
 # BufferedMultiple
-Circuit for a Modular Synthesizer Buffered Multiple
+Circuit for a Modular Analog SynthesizerBuffered Multiple
