@@ -1,13 +1,13 @@
 .title KiCad schematic
-.include "/usr/share/kicad/models/1N5818.mod"
-.include "/usr/share/kicad/models/TL074.mod"
+.include "../models/1N5818.mod"
+.include "../models/TL074.mod"
+D1 +v GNDPWR 1N5818
 D2 GNDPWR -v 1N5818
 C7 +v GNDPWR 0.1uf
-C2 GNDPWR -v 10uf
-C8 -v GNDPWR 0.1uf
 C1 +v GNDPWR 10uf
 R12 Output12 Net-_R12-Pad2_ 1k
-D1 +v GNDPWR 1N5818
+C2 GNDPWR -v 10uf
+C8 -v GNDPWR 0.1uf
 C6 -v GNDPWR 0.1uf
 C5 +v GNDPWR 0.1uf
 C3 +v GNDPWR 0.1uf
