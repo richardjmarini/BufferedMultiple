@@ -1,0 +1,12 @@
+BufferedMultiple/BufferedMultiple-backups
+BufferedMultiple/fp-info-cache
+BufferedMultiple/*.swo
+BufferedMultiple/*.swp
+FrontBoard/fp-info-cache
+FrontBoard/FrontBoard-backups
+FrontBoard/*.swo
+FrontBoard/*.swp
+MainBoard/fp-info-cache
+MainBoard/FrontBoard-backups
+MainBoard/*.swo
+MainBoard/*.swp
