@@ -1942,8 +1942,8 @@
     (uuid fe374942-17a9-4556-9035-9002f9480c59)
   )
 
-  (text ".op\n.control\ntran 1ms 2s 1s uic\nhardcopy ./BufferedMultiple.ps V(output1)\n.endc"
-    (at 15.24 74.93 0)
+  (text ".op\n.control\n.options rshunt=100M gmin=10n\ntran 99.999us 1.005s 1s\nset color0=rgb:f/f/f\nset color1=rgb:0/0/0\nset color2=rgb:0/0/f\nset color3=rgb:f/f/0\nset color4=rgb:0/f/f\nset color5=rgb:f/0/f\nset color6=rgb:5/0/0\nhardcopy BufferedMultiple.ps V(InputBus1)\n.endc\n"
+    (at 16.51 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48afede4-072d-4812-9a6d-de4cc719bbfc)
   )
