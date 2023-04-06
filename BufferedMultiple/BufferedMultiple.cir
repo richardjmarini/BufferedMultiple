@@ -20,7 +20,7 @@ R4 Output4 Net-_R4-Pad2_ 1k
 R3 Output3 Net-_R3-Pad2_ 1k
 R1 Output1 Net-_R1-Pad2_ 1k
 R2 Output2 Net-_R2-Pad2_ 1k
-Vin1 InputBus1 GNDPWR dc 0 sin(-3 3 1k)
+Vin1 InputBus1 GNDPWR dc 0 sin(-1.5v 3v 1k)
 XU1 Net-_R1-Pad2_ Net-_R1-Pad2_ InputBus1 +v InputBus1 Net-_R2-Pad2_ Net-_R2-Pad2_ Net-_R3-Pad2_ Net-_R3-Pad2_ InputBus1 -v InputBus2 Net-_R4-Pad2_ Net-_R4-Pad2_ TL074
 XU2 Net-_R5-Pad2_ Net-_R5-Pad2_ InputBus2 +v InputBus2 Net-_R6-Pad2_ Net-_R6-Pad2_ Net-_R7-Pad2_ Net-_R7-Pad2_ InputBus3 -v InputBus3 Net-_R8-Pad2_ Net-_R8-Pad2_ TL074
 R6 Output6 Net-_R6-Pad2_ 1k

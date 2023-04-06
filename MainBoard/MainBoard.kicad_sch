@@ -3059,7 +3059,7 @@
     (property "Spice_Primitive" "V" (id 5) (at 30.48 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Spice_Model" "dc 0 sin(-3 3 1k)" (id 6) (at 34.29 49.3401 0)
+    (property "Spice_Model" "dc 0 sin(-1.5v 3v 1k)" (id 6) (at 34.29 49.3401 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (pin "1" (uuid 193165b1-131c-4703-bc91-d1a16bf89530))
