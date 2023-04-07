@@ -1,13 +1,13 @@
 .title KiCad schematic
 .include "../models/1N5818.mod"
 .include "../models/TL074.mod"
-D1 +v GNDPWR 1N5818
 D2 GNDPWR -v 1N5818
 C7 +v GNDPWR 0.1uf
-C1 +v GNDPWR 10uf
-R12 Output12 Net-_R12-Pad2_ 1k
 C2 GNDPWR -v 10uf
 C8 -v GNDPWR 0.1uf
+C1 +v GNDPWR 10uf
+R12 Output12 Net-_R12-Pad2_ 1k
+D1 +v GNDPWR 1N5818
 C6 -v GNDPWR 0.1uf
 C5 +v GNDPWR 0.1uf
 C3 +v GNDPWR 0.1uf
@@ -31,13 +31,9 @@ R8 Output8 Net-_R8-Pad2_ 1k
 .control
 .options rshunt=100M gmin=10n
 tran 99.999us 1.005s 1s
-set color0=rgb:f/f/f
-set color1=rgb:0/0/0
-set color2=rgb:0/0/f
-set color3=rgb:f/f/0
-set color4=rgb:0/f/f
-set color5=rgb:f/0/f
-set color6=rgb:5/0/0
-hardcopy BufferedMultiple.ps V(InputBus1)
+hardcopy BufferedMultiple_InputBus1.ps V(InputBus1)
+hardcopy BufferedMultiple_Output1.ps V(Output1)
+hardcopy BufferedMultiple_Output2.ps V(Output2)
+hardcopy BufferedMultiple_Output3.ps V(Output3)
 .endc
 .end
