@@ -54,68 +54,20 @@
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/bbac8a14-710f-4c3b-ae7c-5af6e4131937"
       (reference "#FLG0105") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/4a101f08-da1b-4f70-a78b-beb98dad1596"
-      (reference "#PWR012") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/082325d1-f834-4f60-9a08-4c47d036250a"
-      (reference "#PWR013") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/8fb094cb-3503-4f53-95b5-69dd933bf17c"
-      (reference "#PWR014") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/cca5324d-a966-41c4-8afb-6b2acb1799ae"
-      (reference "#PWR016") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/b01ace97-d129-4975-aa97-dd7df51450f2"
-      (reference "#PWR017") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/157ec0e6-1420-4435-bd43-f1f4eebca671"
-      (reference "#PWR018") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/cb75d2f6-282e-4734-94df-68e0242bdbdb"
-      (reference "#PWR019") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/2336e3f8-f74c-4eef-9f2e-8da92fe5d258"
-      (reference "#PWR020") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/c4d623b9-8c75-4e40-bc6e-a5d5688346ec"
-      (reference "#PWR021") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/37e748df-c7a7-4678-a791-898a11aa5837"
-      (reference "#PWR022") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/571981ce-767b-4131-8ccd-1245b7cdae37"
-      (reference "#PWR023") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/f8432f9c-25c2-40d0-8068-02de43cec211"
-      (reference "#PWR025") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/b9f23fb0-0369-49ba-b31a-5c7251c32315"
-      (reference "#PWR026") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/7a2b5dea-cdd5-4998-ae33-a32f8b482bc6"
-      (reference "#PWR027") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/8c5924f7-cace-47f8-bb27-85a4115c0fcb"
-      (reference "#PWR028") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/b2b5dffb-46b4-4db9-8da7-92b776aba8b5"
-      (reference "#PWR029") (unit 1) (value "GNDPWR") (footprint "")
-    )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/1a3908e6-1e81-477c-b81d-11898b35bbc6"
       (reference "#PWR0101") (unit 1) (value "-12V") (footprint "")
     )
-    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/6e2190a8-0a8f-4569-8c96-006456c6e6b2"
-      (reference "#PWR0102") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/bd544ada-5f11-487c-8264-bdd86a9c4466"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/1e067920-715e-4bd5-a1d2-797877cc2a00"
-      (reference "#PWR0103") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/503df31b-195f-4f50-a96a-e0f1bc72cd20"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/7151763a-e61f-49c8-b7c6-ad092012dadc"
-      (reference "#PWR0104") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/9b95b848-de1d-4a49-8af7-01167a5cc1b5"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
-    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/cb4fc206-399b-4fbf-9515-90f8706ada94"
-      (reference "#PWR0105") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/20a68f0c-2e92-4af9-b975-e0c6437bcdb5"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/6a39d5ca-a782-42f4-af0d-1ed41d3e5856"
       (reference "#PWR0106") (unit 1) (value "+12V") (footprint "")
@@ -126,8 +78,14 @@
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/ce5cd5e6-edb8-4bc2-9942-4e6e4a879e1c"
       (reference "#PWR0108") (unit 1) (value "+12V") (footprint "")
     )
-    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/479edbfe-22e9-482f-abe6-e8a9ee4f8095"
-      (reference "#PWR0109") (unit 1) (value "GNDPWR") (footprint "")
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/9af99277-8d45-40a4-adab-e73f565bb0a7"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/19ec0c04-4dca-40dd-970c-d811c6b1b5fa"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1157bbdb-a3e8-4d90-9b1f-4533965e30b7/398dcbbc-c158-4c72-b954-400642b970bf"
+      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/afa81dbf-1d19-4d13-85d9-6f57cc013431"
       (reference "C1") (unit 1) (value "10uf") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
@@ -246,6 +204,12 @@
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/b0db8abc-4edb-4057-acbd-2211807f3b3f"
       (reference "R8") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
     )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/0fe48391-8f53-4252-b2ae-7bbbd9bf6af6"
+      (reference "R9") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/0300c621-1007-42b3-a548-537dfddf2f61"
+      (reference "R10") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/d67849e6-d31f-4cb6-b6dc-90c617b913e1"
       (reference "R11") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
     )
@@ -257,6 +221,36 @@
     )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/f10d67b1-18b3-4ebc-b021-b27dfd10fac6"
       (reference "R14") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/f82a565c-f1e8-4495-a34e-ed1c9340e8c3"
+      (reference "R15") (unit 1) (value "1M") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/f0d0f957-7322-4c87-a6e1-df479ad632a7"
+      (reference "R16") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/7b1cbfe6-f4e3-4087-a51b-9d375f3ad204"
+      (reference "R17") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/e468a440-3885-4bf7-8cf9-27d27e4eeff8"
+      (reference "R18") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/920e4b01-17ee-44b6-8090-12c5f6af7342"
+      (reference "R19") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/62d3eab1-9402-41bd-90c6-26cb7bafbd95"
+      (reference "R20") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/53ee8d69-0952-447d-b0d5-6c1773c59839"
+      (reference "R21") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/6ac1621d-1e12-4adc-859d-2abbb3e8b4b3"
+      (reference "R22") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/c8ee94ca-86c5-4c25-8045-f36ef4edb621"
+      (reference "R23") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
+    )
+    (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/0dd3b038-ff2d-449c-ba33-b86a07aa72f3"
+      (reference "R24") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
     )
     (path "/8c0d65e1-4a4d-4982-a3de-a94643ed355b/7d393522-d44b-4d20-8f0b-b7142987aa89"
       (reference "U1") (unit 1) (value "TL074CN") (footprint "TL074CN:DIP794W45P254L1969H508Q14")

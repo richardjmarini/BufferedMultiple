@@ -306,7 +306,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 1,
       "workbook_filename": "BufferedMultiple.wbk"
     },
     "page_layout_descr_file": "",
