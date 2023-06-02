@@ -302,7 +302,7 @@
     "net_format_name": "Spice",
     "ngspice": {
       "fix_include_paths": true,
-      "fix_passive_vals": false,
+      "fix_passive_vals": true,
       "meta": {
         "version": 0
       },
@@ -310,7 +310,7 @@
       "workbook_filename": "BufferedMultiple.wbk"
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "schematic.svg",
     "spice_adjust_passive_values": false,
     "spice_external_command": "ngspice \"%I\"",
     "subpart_first_id": 65,
