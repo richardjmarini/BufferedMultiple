@@ -836,7 +836,7 @@
       (net 10 "+12V") (pinfunction "9") (pintype "passive") (tstamp 20ef5b04-ccf7-4b9a-8c61-2f7a0d070e03))
     (pad "10" thru_hole circle (at 10.16 -2.54) (size 1.37 1.37) (drill 1.02) (layers "*.Cu" "*.Mask")
       (net 10 "+12V") (pinfunction "10") (pintype "passive") (tstamp 3972950b-1c19-4332-8d09-d0b747f64e76))
-    (model "/home/rmarini/Development/Circuits/BufferedMultiple/models/1761681-3.step"
+    (model "${KICAD6_3DMODEL_DIR}/1761681-3.step"
       (offset (xyz 5 1.5 9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1571,7 +1571,7 @@
       (net 15 "Output11") (pintype "passive") (tstamp 524b18e5-959f-4dcf-9b73-d66ad391be2a))
     (pad "16" thru_hole circle (at -19.05 0 270) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 16 "Output12") (pintype "passive") (tstamp 643a4484-2ded-4cd9-aa28-5fb73bd0d184))
-    (model "/home/rmarini/Development/Circuits/BufferedMultiple/models/61301611021.step"
+    (model "${KICAD6_3DMODEL_DIR}/61301611021.step"
       (offset (xyz 0 -2.5 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 180 0))
