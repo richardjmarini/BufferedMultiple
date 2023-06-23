@@ -160,6 +160,150 @@
         )
       )
     )
+    (symbol "61301611021:61301611021" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "J" (at 3.81 0.238 0)
+        (effects (font (size 1.27 1.27)) (justify left bottom))
+      )
+      (property "Value" "61301611021" (at 3.81 -5.08 0)
+        (effects (font (size 1.27 1.27)) (justify left bottom))
+      )
+      (property "Footprint" "61301611021" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) (justify bottom) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "61301611021_0_0"
+        (arc (start 0.889 -19.431) (mid 0.0038 -20.32) (end 0.889 -21.209)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -16.891) (mid 0.0038 -17.78) (end 0.889 -18.669)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -14.351) (mid 0.0038 -15.24) (end 0.889 -16.129)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -11.811) (mid 0.0038 -12.7) (end 0.889 -13.589)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -9.271) (mid 0.0038 -10.16) (end 0.889 -11.049)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -6.731) (mid 0.0038 -7.62) (end 0.889 -8.509)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -4.191) (mid 0.0038 -5.08) (end 0.889 -5.969)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 -1.651) (mid 0.0038 -2.54) (end 0.889 -3.429)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 0.889) (mid 0.0038 0) (end 0.889 -0.889)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 3.429) (mid 0.0038 2.54) (end 0.889 1.651)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 5.969) (mid 0.0038 5.08) (end 0.889 4.191)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 8.509) (mid 0.0038 7.62) (end 0.889 6.731)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 11.049) (mid 0.0038 10.16) (end 0.889 9.271)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 13.589) (mid 0.0038 12.7) (end 0.889 11.811)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 16.129) (mid 0.0038 15.24) (end 0.889 14.351)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0.889 18.669) (mid 0.0038 17.78) (end 0.889 16.891)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (pin passive line (at -2.54 17.78 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "1" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -5.08 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "10" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -7.62 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "11" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -10.16 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "12" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -12.7 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "13" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -15.24 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "14" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -17.78 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "15" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -20.32 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "16" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 15.24 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "2" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 12.7 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "3" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 10.16 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "4" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 7.62 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "5" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 5.08 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "6" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 2.54 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "7" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 0 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "8" (effects (font (size 1.016 1.016))))
+        )
+        (pin passive line (at -2.54 -2.54 0) (length 2.54)
+          (name "~" (effects (font (size 1.016 1.016))))
+          (number "9" (effects (font (size 1.016 1.016))))
+        )
+      )
+    )
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -431,115 +575,6 @@
         )
       )
     )
-    (symbol "ESQ-120-12-T-S:ESQ-120-12-T-S" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-      (property "Reference" "J" (at -8.12 27.94 0)
-        (effects (font (size 1.27 1.27)) (justify left bottom))
-      )
-      (property "Value" "ESQ-120-12-T-S" (at -7.62 -27.94 0)
-        (effects (font (size 1.27 1.27)) (justify left bottom))
-      )
-      (property "Footprint" "SAMTEC_ESQ-120-12-T-S" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (property "Datasheet" "" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "MANUFACTURER" "Samtec" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (property "STANDARD" "Manufacturer Recommendations" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (property "PARTREV" "R" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) (justify bottom) hide)
-      )
-      (symbol "ESQ-120-12-T-S_0_0"
-        (rectangle (start -7.62 -25.4) (end 7.62 27.94)
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (pin passive line (at -12.7 25.4 0) (length 5.08)
-          (name "01" (effects (font (size 1.016 1.016))))
-          (number "01" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 22.86 0) (length 5.08)
-          (name "02" (effects (font (size 1.016 1.016))))
-          (number "02" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 20.32 0) (length 5.08)
-          (name "03" (effects (font (size 1.016 1.016))))
-          (number "03" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 17.78 0) (length 5.08)
-          (name "04" (effects (font (size 1.016 1.016))))
-          (number "04" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 15.24 0) (length 5.08)
-          (name "05" (effects (font (size 1.016 1.016))))
-          (number "05" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 12.7 0) (length 5.08)
-          (name "06" (effects (font (size 1.016 1.016))))
-          (number "06" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 10.16 0) (length 5.08)
-          (name "07" (effects (font (size 1.016 1.016))))
-          (number "07" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 7.62 0) (length 5.08)
-          (name "08" (effects (font (size 1.016 1.016))))
-          (number "08" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 5.08 0) (length 5.08)
-          (name "09" (effects (font (size 1.016 1.016))))
-          (number "09" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 2.54 0) (length 5.08)
-          (name "10" (effects (font (size 1.016 1.016))))
-          (number "10" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 0 0) (length 5.08)
-          (name "11" (effects (font (size 1.016 1.016))))
-          (number "11" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -2.54 0) (length 5.08)
-          (name "12" (effects (font (size 1.016 1.016))))
-          (number "12" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -5.08 0) (length 5.08)
-          (name "13" (effects (font (size 1.016 1.016))))
-          (number "13" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -7.62 0) (length 5.08)
-          (name "14" (effects (font (size 1.016 1.016))))
-          (number "14" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -10.16 0) (length 5.08)
-          (name "15" (effects (font (size 1.016 1.016))))
-          (number "15" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -12.7 0) (length 5.08)
-          (name "16" (effects (font (size 1.016 1.016))))
-          (number "16" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -15.24 0) (length 5.08)
-          (name "17" (effects (font (size 1.016 1.016))))
-          (number "17" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -17.78 0) (length 5.08)
-          (name "18" (effects (font (size 1.016 1.016))))
-          (number "18" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -20.32 0) (length 5.08)
-          (name "19" (effects (font (size 1.016 1.016))))
-          (number "19" (effects (font (size 1.016 1.016))))
-        )
-        (pin passive line (at -12.7 -22.86 0) (length 5.08)
-          (name "20" (effects (font (size 1.016 1.016))))
-          (number "20" (effects (font (size 1.016 1.016))))
-        )
-      )
-    )
     (symbol "GND_1" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -696,46 +731,6 @@
         )
       )
     )
-    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (at 0 -6.35 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Value" "GND" (at 0 -3.81 0)
-        (effects (font (size 1.27 1.27)))
-      )
-      (property "Footprint" "" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Datasheet" "" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "global power" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "GND_0_1"
-        (polyline
-          (pts
-            (xy 0 0)
-            (xy 0 -1.27)
-            (xy 1.27 -1.27)
-            (xy 0 -2.54)
-            (xy -1.27 -1.27)
-            (xy 0 -1.27)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-      )
-      (symbol "GND_1_1"
-        (pin power_in line (at 0 0 270) (length 0) hide
-          (name "GND" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
   )
 
   (junction (at 95.25 151.13) (diameter 0) (color 0 0 0 0)
@@ -755,9 +750,6 @@
   )
   (junction (at 87.63 31.75) (diameter 0) (color 0 0 0 0)
     (uuid 18305815-5eb2-4e31-9a27-63c5a4dd83ce)
-  )
-  (junction (at 220.98 128.27) (diameter 0) (color 0 0 0 0)
-    (uuid 208d3269-984b-4afb-960e-64ee98adf96d)
   )
   (junction (at 143.51 171.45) (diameter 0) (color 0 0 0 0)
     (uuid 21329ce4-f53b-4757-a186-68e3ce22792c)
@@ -816,9 +808,6 @@
   (junction (at 143.51 161.29) (diameter 0) (color 0 0 0 0)
     (uuid 9dd98557-9d35-4410-bb42-c60c8569f6b4)
   )
-  (junction (at 220.98 123.19) (diameter 0) (color 0 0 0 0)
-    (uuid b460a0e3-02ae-4e3b-bab3-22df32267bfa)
-  )
   (junction (at 81.28 151.13) (diameter 0) (color 0 0 0 0)
     (uuid b82916c0-2ec4-4e30-9450-9594adc24759)
   )
@@ -833,9 +822,6 @@
   )
   (junction (at 140.97 171.45) (diameter 0) (color 0 0 0 0)
     (uuid c8b7fa26-b8a2-42cb-8a24-df9f1992ae17)
-  )
-  (junction (at 220.98 125.73) (diameter 0) (color 0 0 0 0)
-    (uuid ca9669e0-a533-4280-acaa-2ff8589fc39d)
   )
   (junction (at 88.9 102.87) (diameter 0) (color 0 0 0 0)
     (uuid d0a59bbf-3071-41ce-ab9a-abf2bcabacfd)
@@ -968,10 +954,6 @@
   (wire (pts (xy 220.98 110.49) (xy 212.09 110.49))
     (stroke (width 0) (type default))
     (uuid 0f69dff4-a64f-4bf7-ad27-ff4c2bd258a2)
-  )
-  (wire (pts (xy 220.98 125.73) (xy 220.98 128.27))
-    (stroke (width 0) (type default))
-    (uuid 0fd64100-5a97-4233-8efc-2d7f9a296a5d)
   )
   (wire (pts (xy 205.74 76.2) (xy 215.9 76.2))
     (stroke (width 0) (type default))
@@ -1108,10 +1090,6 @@
   (wire (pts (xy 36.83 157.48) (xy 40.64 157.48))
     (stroke (width 0) (type default))
     (uuid 39b32332-d6eb-4066-9c5a-784c77cb509f)
-  )
-  (wire (pts (xy 220.98 128.27) (xy 220.98 133.35))
-    (stroke (width 0) (type default))
-    (uuid 40cd5b9a-0d7b-4f81-b7d7-00c404cfa07b)
   )
   (wire (pts (xy 189.23 40.64) (xy 196.85 40.64))
     (stroke (width 0) (type default))
@@ -1477,10 +1455,6 @@
     (stroke (width 0) (type default))
     (uuid 9b341d0d-a566-494e-9992-b55027cf4044)
   )
-  (wire (pts (xy 220.98 120.65) (xy 220.98 123.19))
-    (stroke (width 0) (type default))
-    (uuid 9d9de08e-3ff0-42f4-bef8-fe605aad06ee)
-  )
   (wire (pts (xy 81.28 151.13) (xy 95.25 151.13))
     (stroke (width 0) (type default))
     (uuid 9e0599fe-97ee-4f13-a349-762a8f42c861)
@@ -1668,10 +1642,6 @@
   (wire (pts (xy 147.32 87.63) (xy 147.32 92.71))
     (stroke (width 0) (type default))
     (uuid c639cf04-ff72-44de-b39b-c33071e7ed83)
-  )
-  (wire (pts (xy 220.98 123.19) (xy 220.98 125.73))
-    (stroke (width 0) (type default))
-    (uuid c89a50ff-63e7-41bf-8596-f8d5d009a107)
   )
   (wire (pts (xy 68.58 161.29) (xy 81.28 161.29))
     (stroke (width 0) (type default))
@@ -2218,7 +2188,7 @@
     (property "Value" "100k" (at 139.7 33.02 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 137.16 33.782 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 137.16 33.782 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 35.56 0)
@@ -2227,6 +2197,11 @@
     (pin "1" (uuid c5efbf95-2d8e-4888-9b36-38c7c7d10ae8))
     (pin "2" (uuid 3a30f2b0-61bd-4535-a567-0a950f9ca3ff))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R10") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R10") (unit 1)
@@ -2265,6 +2240,11 @@
     (pin "1" (uuid ba684d7c-206a-4c98-b824-40bb57bcd818))
     (pin "2" (uuid 05f67689-b87d-4a73-ba19-8cfc59729f07))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "F2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "F2") (unit 1)
@@ -2303,6 +2283,11 @@
     (pin "1" (uuid 7cd7460a-de4d-4e2d-ab86-f2bbbcecffa6))
     (pin "2" (uuid 931bb4cf-a6ba-41ca-ba4c-951036e4380b))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "F1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "F1") (unit 1)
@@ -2320,7 +2305,7 @@
     (property "Value" "100k" (at 185.42 33.02 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 182.88 33.782 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 182.88 33.782 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 35.56 0)
@@ -2329,6 +2314,11 @@
     (pin "1" (uuid a1e9ebd4-6a90-4d23-9110-6a99c89f6a5b))
     (pin "2" (uuid 7696eee8-2e4b-40b7-a317-93296a435dae))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R24") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R24") (unit 1)
@@ -2346,7 +2336,7 @@
     (property "Value" "100k" (at 139.7 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 137.16 28.702 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 137.16 28.702 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 30.48 0)
@@ -2355,6 +2345,11 @@
     (pin "1" (uuid ea8af268-a61a-4080-9052-189d35ada315))
     (pin "2" (uuid 0b95d5f8-be59-4aa4-9e3b-2ddb0751a97c))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R9") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R9") (unit 1)
@@ -2372,7 +2367,7 @@
     (property "Value" "0.1uf" (at 97.79 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 96.2152 158.75 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 96.2152 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 95.25 154.94 0)
@@ -2381,6 +2376,11 @@
     (pin "1" (uuid f2d201ea-d050-4595-9ca9-725c46100429))
     (pin "2" (uuid 5d2f3ae9-e953-4b8b-8ec2-7e1e969f3fae))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C5") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C5") (unit 1)
@@ -2398,7 +2398,7 @@
     (property "Value" "0.1uf" (at 99.06 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 96.2152 163.83 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 96.2152 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 95.25 167.64 0)
@@ -2407,6 +2407,11 @@
     (pin "1" (uuid 28c42959-8e72-4709-83e0-fbb99eade23c))
     (pin "2" (uuid 83616a1b-53cb-4bc4-bfc7-a340c75ffaa4))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C6") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C6") (unit 1)
@@ -2415,51 +2420,58 @@
     )
   )
 
-  (symbol (lib_id "ESQ-120-12-T-S:ESQ-120-12-T-S") (at 233.68 105.41 0) (unit 1)
+  (symbol (lib_id "61301611021:61301611021") (at 223.52 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1cc14d5d-9af4-4ee3-b4cf-6997c8b230f3)
-    (property "Reference" "Jheader2" (at 229.87 74.93 0)
+    (property "Reference" "Jheader2" (at 223.52 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "ESQ-120-12-T-S" (at 234.95 111.76 90)
+    (property "Value" "61301611021" (at 227.33 104.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "ESQ-120-12-T-S:SAMTEC_ESQ-120-12-T-S" (at 233.68 105.41 0)
+    (property "Footprint" "61301611021:61301611021" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Datasheet" "" (at 233.68 105.41 0)
+    (property "Datasheet" "" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MANUFACTURER" "Samtec" (at 233.68 105.41 0)
+    (property "MANUFACTURER" "Samtec" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "STANDARD" "Manufacturer Recommendations" (at 233.68 105.41 0)
+    (property "STANDARD" "Manufacturer Recommendations" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "PARTREV" "R" (at 233.68 105.41 0)
+    (property "PARTREV" "R" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Sim.Enable" "0" (at 233.68 105.41 0)
+    (property "Sim.Enable" "0" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "SPICE" (at 233.68 105.41 0)
+    (property "Sim.Device" "SPICE" (at 223.52 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Params" "type=\"J\" model=\"ESQ-120-12-T-S\" lib=\"\"" (at 0 0 0)
+    (property "Sim.Params" "type=\"J\" model=\"ESQ-120-12-T-S\" lib=\"\"" (at -10.16 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Pins" "01=1 02=2 03=3 04=4 05=5 06=6 07=7 08=8 09=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=19 20=20" (at 0 0 0)
+    (property "Sim.Pins" "01=1 02=2 03=3 04=4 05=5 06=6 07=7 08=8 09=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=19 20=20" (at -10.16 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "01" (uuid 6249db3c-7986-4968-9eb5-f49a4f7c654d))
-    (pin "02" (uuid be68d2df-6d76-4fb4-9e04-c8a3fde882a7))
-    (pin "03" (uuid 1d7b3d04-f8b8-4650-8404-40010aa660c6))
-    (pin "04" (uuid 5752b0bf-ce84-4fdf-98db-a55ccb0118b2))
-    (pin "05" (uuid d5614ba6-ec40-4dd5-9dfc-e6dbeea5eff1))
-    (pin "06" (uuid 144ff3f1-6780-4796-a8cc-dccd73aa3695))
-    (pin "07" (uuid d6d626e9-f93e-468c-91a7-07076bc26cb3))
-    (pin "08" (uuid c5fe0a52-b24c-4dd5-a325-1667a73f8e38))
-    (pin "09" (uuid 21742284-c69d-4178-88a8-d12a7632c468))
+    (property "Comment" "1-826936-6" (at 223.52 97.79 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "EU_RoHS_Compliance" "Compliant" (at 223.52 97.79 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Product_Type" "Connector" (at 223.52 97.79 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Centerline_Pitch" "2.54 mm[.1 in]" (at 223.52 97.79 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Number_of_Positions" "16" (at 223.52 97.79 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (pin "1" (uuid c22a9a42-f5a5-47c3-81a6-923fd0617810))
     (pin "10" (uuid 99b9643e-ce7f-4bc7-b66f-68548510097c))
     (pin "11" (uuid c66d53c0-a592-402a-a477-9a51835376f4))
     (pin "12" (uuid 2d88913f-a66a-4be3-88be-00050879a965))
@@ -2467,11 +2479,20 @@
     (pin "14" (uuid 6c887cf5-b757-4cca-8d37-24a4cfae2f65))
     (pin "15" (uuid d379387f-e1ed-4647-97aa-db20c9dbaf63))
     (pin "16" (uuid 3eb3aba4-c048-48ca-abd3-8cc83e2660de))
-    (pin "17" (uuid 50fc539e-8d9a-4416-8990-163a184ff89b))
-    (pin "18" (uuid bd93a6d4-8acd-42b6-a4b3-db531df2ba79))
-    (pin "19" (uuid 075dc525-088f-4ce9-b061-7e0c05cdd444))
-    (pin "20" (uuid 4bab9ecd-5da3-4169-b6ba-88b7fd44c984))
+    (pin "2" (uuid dd2a3a05-61dd-4ffa-a3b6-2696eb1760f7))
+    (pin "3" (uuid 92064ff1-4db6-497d-8eb1-8de37c8397a5))
+    (pin "4" (uuid 358f5d99-6d82-4e2a-a432-1f41a68f5704))
+    (pin "5" (uuid 2421c262-0aa1-4478-a495-81dea441b4c2))
+    (pin "6" (uuid d02f853c-d205-4d0f-89ea-638b38602acd))
+    (pin "7" (uuid 946ceeca-14f1-4d8d-955f-9e285dc96177))
+    (pin "8" (uuid aeaa2c40-9b9e-4a48-ac5a-dc1bcb1865aa))
+    (pin "9" (uuid 26cd33e0-5f28-4ac4-af31-dc157630a114))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "Jheader2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "Jheader2") (unit 1)
@@ -2497,6 +2518,11 @@
     )
     (pin "1" (uuid a1cb50d2-e066-4740-a4a1-c74caaf7e3bf))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#FLG03") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#FLG03") (unit 1)
@@ -2514,7 +2540,7 @@
     (property "Value" "0.1uf" (at 88.9 168.91 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 82.2452 163.83 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 82.2452 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 81.28 167.64 0)
@@ -2523,6 +2549,11 @@
     (pin "1" (uuid 19255830-03be-4aca-880c-0f68e7ccf512))
     (pin "2" (uuid 8803a7b1-1b04-428d-a9d4-58d4ad211b15))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C4") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C4") (unit 1)
@@ -2548,6 +2579,11 @@
     )
     (pin "1" (uuid 0303046a-6718-4cbc-8a6e-a7fbbc4e83e9))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#FLG02") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#FLG02") (unit 1)
@@ -2565,7 +2601,7 @@
     (property "Value" "1k" (at 137.16 128.27 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 137.16 123.952 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 137.16 123.952 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 125.73 0)
@@ -2574,6 +2610,11 @@
     (pin "1" (uuid 4fbe4e9c-e569-40e7-ad0f-38630f5280c8))
     (pin "2" (uuid 0ed62a98-7091-498c-94b3-d82df8945757))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R12") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R12") (unit 1)
@@ -2599,6 +2640,11 @@
     )
     (pin "1" (uuid 35b2b707-7d25-449d-81e2-7c94770aa97a))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#FLG04") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#FLG04") (unit 1)
@@ -2634,6 +2680,11 @@
     (pin "1" (uuid d792aec0-aee7-4228-a679-0b33947e4320))
     (pin "2" (uuid a42ea6ad-a447-49fc-9906-7fcad9b38814))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "D1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "D1") (unit 1)
@@ -2651,7 +2702,7 @@
     (property "Value" "1k" (at 80.01 60.96 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 80.01 60.198 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 80.01 60.198 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 80.01 58.42 0)
@@ -2660,6 +2711,11 @@
     (pin "1" (uuid e1911f83-4ef9-4bee-b675-1e4780547b8e))
     (pin "2" (uuid 6419661a-a939-4852-a270-933023c6552f))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R4") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R4") (unit 1)
@@ -2685,6 +2741,11 @@
     )
     (pin "1" (uuid 7973a752-8f27-4b8e-9afb-50ded5958743))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR02") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR02") (unit 1)
@@ -2710,6 +2771,11 @@
     )
     (pin "1" (uuid b622609f-c583-49bb-84eb-9b90631a2203))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR07") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR07") (unit 1)
@@ -2727,7 +2793,7 @@
     (property "Value" "100k" (at 140.97 110.49 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 111.252 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 111.252 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 113.03 0)
@@ -2736,6 +2802,11 @@
     (pin "1" (uuid ff469782-0148-4f1e-be82-2d2c04c3f5f8))
     (pin "2" (uuid 11c0f268-a1fa-4653-b2b6-7c7b13a65c88))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R21") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R21") (unit 1)
@@ -2753,7 +2824,7 @@
     (property "Value" "100k" (at 140.97 105.41 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 106.172 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 106.172 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 107.95 0)
@@ -2762,6 +2833,11 @@
     (pin "1" (uuid 9ae60764-afca-495d-b486-dbdf3ec14d65))
     (pin "2" (uuid dc808f66-fbe6-422a-9dd6-d19d758e57d9))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R20") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R20") (unit 1)
@@ -2787,6 +2863,11 @@
     )
     (pin "1" (uuid 160edcc5-819e-42b8-b808-fe1f7dbcabb4))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR06") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR06") (unit 1)
@@ -2804,7 +2885,7 @@
     (property "Value" "1k" (at 243.84 43.18 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 243.84 38.862 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 243.84 38.862 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.84 40.64 0)
@@ -2813,6 +2894,11 @@
     (pin "1" (uuid 3cd7f312-40ea-4e98-84c4-48881e4882cb))
     (pin "2" (uuid 95589da1-41ce-4ceb-8fc8-bfd893562be9))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R6") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R6") (unit 1)
@@ -2830,7 +2916,7 @@
     (property "Value" "100k" (at 140.97 115.57 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 116.332 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 116.332 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 118.11 0)
@@ -2839,6 +2925,11 @@
     (pin "1" (uuid 1c724432-52d0-4a20-a4a7-09c3e71bff8e))
     (pin "2" (uuid ccfd2e0e-69e6-4bea-8c5f-2d94c2ef664e))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R22") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R22") (unit 1)
@@ -2856,7 +2947,7 @@
     (property "Value" "1k" (at 243.84 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 243.84 51.308 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 243.84 51.308 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.84 49.53 0)
@@ -2865,6 +2956,11 @@
     (pin "1" (uuid 97371897-2006-4e79-9aae-9fd7ac15e472))
     (pin "2" (uuid ac913db1-b55c-43d0-accc-5d74789eedd2))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R7") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R7") (unit 1)
@@ -2882,7 +2978,7 @@
     (property "Value" "100k" (at 140.97 82.55 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 83.312 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 83.312 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 85.09 0)
@@ -2891,6 +2987,11 @@
     (pin "1" (uuid 7cf7737b-a5a8-469b-b014-7356a85a338a))
     (pin "2" (uuid 71257dbd-7b17-4e94-be5a-75611a5d2033))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R17") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R17") (unit 1)
@@ -2938,6 +3039,11 @@
     (pin "8" (uuid 51e52e2d-6785-4c86-9dd7-8aebf7924453))
     (pin "9" (uuid f80c9353-1371-4ac2-a3fe-3c48b88b02f5))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "U1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "U1") (unit 1)
@@ -2963,6 +3069,11 @@
     )
     (pin "1" (uuid e8d78ebd-5246-4520-82e9-5ef671d8b805))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#FLG01") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#FLG01") (unit 1)
@@ -2980,7 +3091,7 @@
     (property "Value" "1k" (at 80.01 43.18 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 80.01 38.862 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 80.01 38.862 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 80.01 40.64 0)
@@ -2989,6 +3100,11 @@
     (pin "1" (uuid ecff6837-a08b-483d-9647-9310dfc674e3))
     (pin "2" (uuid b825db6d-eaf6-475d-bf93-964d29afb19e))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R2") (unit 1)
@@ -3006,7 +3122,7 @@
     (property "Value" "0.1uf" (at 71.12 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 69.5452 158.75 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 69.5452 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 154.94 0)
@@ -3015,6 +3131,11 @@
     (pin "1" (uuid b40f7e0e-63a8-4843-8bd1-9c6ba9993089))
     (pin "2" (uuid 9d2bfb75-3655-468a-99b3-1689c86cc127))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C1") (unit 1)
@@ -3032,7 +3153,7 @@
     (property "Value" "100k" (at 140.97 92.71 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 93.472 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 93.472 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 95.25 0)
@@ -3041,6 +3162,11 @@
     (pin "1" (uuid 4d58e3ef-8f09-4725-97cc-8958072044f8))
     (pin "2" (uuid c16fece0-fcc1-4785-8682-86fce8781556))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R19") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R19") (unit 1)
@@ -3088,6 +3214,11 @@
     (pin "8" (uuid 3f14e26b-7cdc-410d-b3d8-a1e1b508e5c6))
     (pin "9" (uuid 5e066100-2ddd-4cf4-b70e-2e800bbbf810))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "U2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "U2") (unit 1)
@@ -3113,6 +3244,11 @@
     )
     (pin "1" (uuid f1d24e89-ebdf-42bc-a904-cb735522aad6))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#FLG05") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#FLG05") (unit 1)
@@ -3139,6 +3275,11 @@
     (pin "1" (uuid 7844fa1c-c2e9-46d4-aee9-55128915096f))
     (pin "2" (uuid 1a6cbd94-89ce-40b4-bf57-ce02cce2f2a0))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C7") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C7") (unit 1)
@@ -3186,6 +3327,11 @@
     (pin "8" (uuid 654b3b97-d6ef-4fab-aedc-733bab6d7f72))
     (pin "9" (uuid 6b56dce3-891e-4c99-a6a2-469129a36085))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "U3") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "U3") (unit 1)
@@ -3235,6 +3381,11 @@
     (pin "8" (uuid f3434646-3f1c-47a6-a46a-5a793de1a675))
     (pin "9" (uuid de43a907-7986-43a1-85df-813a5b950da3))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "JP1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "JP1") (unit 1)
@@ -3270,6 +3421,11 @@
     (pin "1" (uuid b7e9f297-3fb5-418f-84af-374d9e1234d2))
     (pin "2" (uuid ef6a70d3-add1-4d98-a58f-79ea51ef1e0c))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "D2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "D2") (unit 1)
@@ -3287,7 +3443,7 @@
     (property "Value" "1k" (at 80.01 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 80.01 29.972 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 80.01 29.972 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 80.01 31.75 0)
@@ -3296,6 +3452,11 @@
     (pin "1" (uuid 973720a6-f461-4d46-b2fe-59915df69d25))
     (pin "2" (uuid fcf72183-7571-4ba1-a298-770fa333efdf))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R1") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R1") (unit 1)
@@ -3313,7 +3474,7 @@
     (property "Value" "1k" (at 82.55 121.92 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 82.55 121.158 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 82.55 121.158 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 119.38 0)
@@ -3322,6 +3483,11 @@
     (pin "1" (uuid effd187f-437a-47c3-aacd-a026a2a6bd95))
     (pin "2" (uuid 82675c4d-4497-4750-a2c2-a2e88b4945f9))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R13") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R13") (unit 1)
@@ -3339,7 +3505,7 @@
     (property "Value" "1k" (at 243.84 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 243.84 29.972 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 243.84 29.972 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.84 31.75 0)
@@ -3348,6 +3514,11 @@
     (pin "1" (uuid 03e0db4a-f985-4ff6-bafd-b767f48ef534))
     (pin "2" (uuid 13c6b480-64d5-4c28-8352-28caeafe01dd))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R5") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R5") (unit 1)
@@ -3365,7 +3536,7 @@
     (property "Value" "1k" (at 243.84 60.96 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 243.84 60.198 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 243.84 60.198 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 243.84 58.42 0)
@@ -3374,6 +3545,11 @@
     (pin "1" (uuid 42e922bc-a707-4577-ab09-eb15ccc2696e))
     (pin "2" (uuid 9b832f8f-4134-46f3-a7d7-8f6a8df92d6a))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R8") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R8") (unit 1)
@@ -3391,7 +3567,7 @@
     (property "Value" "0.1uf" (at 83.82 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 82.2452 158.75 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 82.2452 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 81.28 154.94 0)
@@ -3400,34 +3576,14 @@
     (pin "1" (uuid b84cd507-81d3-4b97-84f4-ffd2f1f1857e))
     (pin "2" (uuid acd3eed8-82ea-477a-b50a-3a7848551491))
     (instances
-      (project "BufferedMultiple"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
           (reference "C3") (unit 1)
         )
       )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 220.98 133.35 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid bcda4c71-9170-4c68-9700-ee1d27ad2b60)
-    (property "Reference" "#PWR08" (at 220.98 139.7 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 220.98 138.43 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 220.98 133.35 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 220.98 133.35 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 28bde728-b085-4d14-90ba-c691396e17cb))
-    (instances
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
-          (reference "#PWR08") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -3442,7 +3598,7 @@
     (property "Value" "1k" (at 80.01 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 80.01 47.752 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 80.01 47.752 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 80.01 49.53 0)
@@ -3451,6 +3607,11 @@
     (pin "1" (uuid 5ed867d6-e24b-4827-bb08-f4f5e703c946))
     (pin "2" (uuid 3ec4c6d4-d672-41bf-9275-f96679fe932f))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R3") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R3") (unit 1)
@@ -3468,7 +3629,7 @@
     (property "Value" "100k" (at 185.42 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 182.88 28.702 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 182.88 28.702 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 182.88 30.48 0)
@@ -3477,6 +3638,11 @@
     (pin "1" (uuid 016c0c37-2de5-4c7c-9373-5e56a6e0112c))
     (pin "2" (uuid 7a96605b-d9c5-419c-8d01-4dc875b25caa))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R23") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R23") (unit 1)
@@ -3503,6 +3669,11 @@
     (pin "1" (uuid c6c09f1d-8526-474d-84d1-9ef4e9ca3baa))
     (pin "2" (uuid 675cfbd2-e790-4842-b368-f626e1795786))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C8") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C8") (unit 1)
@@ -3528,6 +3699,11 @@
     )
     (pin "1" (uuid ae2be0a1-4d8c-4341-9f6f-f3b25fc45045))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR01") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR01") (unit 1)
@@ -3545,7 +3721,7 @@
     (property "Value" "1k" (at 82.55 105.41 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 82.55 101.092 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 82.55 101.092 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 102.87 0)
@@ -3554,6 +3730,11 @@
     (pin "1" (uuid 4b1b5316-379c-4b2d-a02a-08c90d4120cd))
     (pin "2" (uuid 1ae99ca0-9873-4ea6-b94d-b56f0fd851f7))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R11") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R11") (unit 1)
@@ -3579,6 +3760,11 @@
     )
     (pin "1" (uuid 1ec962f7-5089-4b01-a2fb-a6a02c9309d4))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR03") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR03") (unit 1)
@@ -3596,7 +3782,7 @@
     (property "Value" "100k" (at 140.97 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 138.43 88.392 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 138.43 88.392 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 90.17 0)
@@ -3605,6 +3791,11 @@
     (pin "1" (uuid dd0255d1-38d0-456b-8a1b-cef6b38768d2))
     (pin "2" (uuid 9dcf3fdb-a53c-4495-851c-e1b2c67e02ae))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R18") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R18") (unit 1)
@@ -3630,6 +3821,11 @@
     )
     (pin "1" (uuid 4b5d29af-7648-4542-bfab-e9071b6c4b36))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR05") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR05") (unit 1)
@@ -3647,7 +3843,7 @@
     (property "Value" "100k" (at 139.7 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 137.16 38.862 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 137.16 38.862 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 40.64 0)
@@ -3656,6 +3852,11 @@
     (pin "1" (uuid 6eb14be0-cdba-43c4-a2b5-ea3b297c8104))
     (pin "2" (uuid 47040ab8-79eb-465d-90a7-1bd96a23c7f6))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R16") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R16") (unit 1)
@@ -3673,7 +3874,7 @@
     (property "Value" "1k" (at 82.55 113.03 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 82.55 112.268 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 82.55 112.268 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 110.49 0)
@@ -3682,6 +3883,11 @@
     (pin "1" (uuid af096782-1ef5-4d88-ab11-2b126f077a55))
     (pin "2" (uuid 34911780-bd2e-42b7-9f13-62081c2088bb))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R14") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R14") (unit 1)
@@ -3707,6 +3913,11 @@
     )
     (pin "1" (uuid fca55a5a-9343-49da-9fd9-c0e8ff7aea22))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "#PWR04") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "#PWR04") (unit 1)
@@ -3724,7 +3935,7 @@
     (property "Value" "0.1uf" (at 71.12 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm" (at 69.5452 163.83 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (at 69.5452 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 167.64 0)
@@ -3733,6 +3944,11 @@
     (pin "1" (uuid 2dfa347b-08b4-4ee1-b0ac-49ade4fe9171))
     (pin "2" (uuid ba1f0967-2682-40e7-8282-722799674775))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "C2") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "C2") (unit 1)
@@ -3750,7 +3966,7 @@
     (property "Value" "1M" (at 143.51 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 144.272 48.26 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 144.272 48.26 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 48.26 0)
@@ -3759,11 +3975,20 @@
     (pin "1" (uuid dac0ac05-21f5-4534-839c-dbea5b34d308))
     (pin "2" (uuid fcf0e7af-77c3-48c3-bd29-ecc8605cf553))
     (instances
+      (project "MainBoard"
+        (path "/8e4b66b5-f3f7-4bd7-a29a-8afd9eeaaeda"
+          (reference "R15") (unit 1)
+        )
+      )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
           (reference "R15") (unit 1)
         )
       )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
