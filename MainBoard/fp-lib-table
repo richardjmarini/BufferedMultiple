@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1761681-3")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/1761681-3.pretty")(options "")(descr ""))
+  (lib (name "2-826646-0")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/2-826646-0.pretty")(options "")(descr ""))
+  (lib (name "ESQ-120-12-T-S")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/ESQ-120-12-T-S.pretty")(options "")(descr ""))
+  (lib (name "72R020XU")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/72R020XU.pretty")(options "")(descr ""))
+  (lib (name "TL074CN")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/TL074CN.pretty")(options "")(descr ""))
+  (lib (name "Thonk_PJ398SM")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/Thonk_PJ398SM.pretty")(options "")(descr ""))
+  (lib (name "1N5934B")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/1N5934B.pretty")(options "")(descr ""))
+  (lib (name "TE_1-826936-6")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/TE_1-826936-6.pretty")(options "")(descr ""))
+  (lib (name "61301611021")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/61301611021.pretty")(options "")(descr ""))
+  (lib (name "1N5349B")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/1N5349B.pretty")(options "")(descr ""))
+)
