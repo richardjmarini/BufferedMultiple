@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "1-826936-6")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/1-826936-6.kicad_sym")(options "")(descr ""))
+  (lib (name "ESQ-120-12-T-S")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/ESQ-120-12-T-S.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ398SM-12")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/PJ398SM-12.kicad_sym")(options "")(descr ""))
 )

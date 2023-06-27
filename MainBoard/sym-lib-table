@@ -5,4 +5,5 @@
   (lib (name "1761681-3")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/1761681-3.kicad_sym")(options "")(descr ""))
   (lib (name "TL074CN")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/TL074CN.kicad_sym")(options "")(descr ""))
   (lib (name "1N5349B")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/1N5349B.kicad_sym")(options "")(descr ""))
+  (lib (name "75168-116-20LF")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/symbols/75168-116-20LF.kicad_sym")(options "")(descr ""))
 )

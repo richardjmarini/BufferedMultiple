@@ -10,4 +10,5 @@
   (lib (name "TE_1-826936-6")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/TE_1-826936-6.pretty")(options "")(descr ""))
   (lib (name "61301611021")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/61301611021.pretty")(options "")(descr ""))
   (lib (name "1N5349B")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/1N5349B.pretty")(options "")(descr ""))
+  (lib (name "75168-116-20LF")(type "KiCad")(uri "/home/rmarini/Development/Circuits/BufferedMultiple/footprints/75168-116-20LF.pretty")(options "")(descr ""))
 )

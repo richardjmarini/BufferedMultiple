@@ -1,0 +1,314 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "75168-116-20LF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -5.58 27.94 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "75168-116-20LF" (id 1) (at -5.08 -27.94 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "AMPHENOL_75168-116-20LF" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "AL" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Amphenol ICC (FCI)" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "75168-116-20LF_0_0"
+      (polyline
+        (pts (xy -5.08 25.4) (xy -3.175 25.4)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 25.0825) (end -2.8575 25.7175)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 22.86) (xy -3.175 22.86)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 22.5425) (end -2.8575 23.1775)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 20.32) (xy -3.175 20.32)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 20.0025) (end -2.8575 20.6375)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 17.78) (xy -3.175 17.78)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 17.4625) (end -2.8575 18.0975)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 15.24) (xy -3.175 15.24)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 14.9225) (end -2.8575 15.5575)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 12.7) (xy -3.175 12.7)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 12.3825) (end -2.8575 13.0175)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 10.16) (xy -3.175 10.16)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 9.8425) (end -2.8575 10.4775)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 7.62) (xy -3.175 7.62)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 7.3025) (end -2.8575 7.9375)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 5.08) (xy -3.175 5.08)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 4.7625) (end -2.8575 5.3975)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 2.54) (xy -3.175 2.54)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 2.2225) (end -2.8575 2.8575)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 0.0) (xy -3.175 0.0)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -0.3175) (end -2.8575 0.3175)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -2.54) (xy -3.175 -2.54)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -2.8575) (end -2.8575 -2.2225)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -5.08) (xy -3.175 -5.08)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -5.3975) (end -2.8575 -4.7625)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -7.62) (xy -3.175 -7.62)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -7.9375) (end -2.8575 -7.3025)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -10.16) (xy -3.175 -10.16)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -10.4775) (end -2.8575 -9.8425)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -12.7) (xy -3.175 -12.7)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -13.0175) (end -2.8575 -12.3825)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -15.24) (xy -3.175 -15.24)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -15.5575) (end -2.8575 -14.9225)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -17.78) (xy -3.175 -17.78)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -18.0975) (end -2.8575 -17.4625)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -20.32) (xy -3.175 -20.32)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -20.6375) (end -2.8575 -20.0025)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -22.86) (xy -3.175 -22.86)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.445 -23.1775) (end -2.8575 -22.5425)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -5.08 -24.13) (xy -3.81 -25.4)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 26.67) (xy -3.81 27.94)) (stroke (width 0.254))
+      )
+      (rectangle (start -4.8815625 -25.4) (end 5.2784375 27.94)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -10.16 25.4 0) (length 5.08)
+        (name "01"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "01"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 22.86 0) (length 5.08)
+        (name "02"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "02"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 20.32 0) (length 5.08)
+        (name "03"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "03"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 17.78 0) (length 5.08)
+        (name "04"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "04"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 15.24 0) (length 5.08)
+        (name "05"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "05"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 12.7 0) (length 5.08)
+        (name "06"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "06"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 10.16 0) (length 5.08)
+        (name "07"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "07"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 7.62 0) (length 5.08)
+        (name "08"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "08"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 5.08 0) (length 5.08)
+        (name "09"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "09"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 2.54 0) (length 5.08)
+        (name "10"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 0.0 0) (length 5.08)
+        (name "11"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -2.54 0) (length 5.08)
+        (name "12"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -5.08 0) (length 5.08)
+        (name "13"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -7.62 0) (length 5.08)
+        (name "14"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -10.16 0) (length 5.08)
+        (name "15"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -12.7 0) (length 5.08)
+        (name "16"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -15.24 0) (length 5.08)
+        (name "17"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -17.78 0) (length 5.08)
+        (name "18"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -20.32 0) (length 5.08)
+        (name "19"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "19"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -22.86 0) (length 5.08)
+        (name "20"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "20"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
