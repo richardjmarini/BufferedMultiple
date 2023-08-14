@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "MainBoard.dsn",
-      "step": "",
+      "step": "../FrontBoard/3dmodels/MainBoard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
