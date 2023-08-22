@@ -1697,7 +1697,7 @@
       )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1157bbdb-a3e8-4d90-9b1f-4533965e30b7"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )

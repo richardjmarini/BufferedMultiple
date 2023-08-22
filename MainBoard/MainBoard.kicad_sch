@@ -2977,7 +2977,7 @@
       )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -3252,7 +3252,7 @@
       )
       (project "BufferedMultiple"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8c0d65e1-4a4d-4982-a3de-a94643ed355b"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
